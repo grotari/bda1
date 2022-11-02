@@ -1,6 +1,6 @@
 # bda1 (Big Data Analytics)
 
-### Aim of the project:
+### Aim of the project
 Finding out insights for a P-2-P platform using exploratory data analyses.
 
 ### Tasks
